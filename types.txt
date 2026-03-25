@@ -1,0 +1,46 @@
+height:
+0, Short
+1, Normal
+2, Tall
+
+bust:
+0, A Cup
+1, B Cup
+2, C Cup
+3, D Cup
+4, F Cup
+
+skin:
+0, Pale
+1, Normal
+2, Tan
+3, Dark
+
+
+shape: (Not every Character has 1 or 2, seems they all have 0. So Shinny / Thick for options)
+0, Skinny
+1, Thicker
+2, Thickest
+
+
+socks:
+0, None
+1, White Long Socks
+2, Black Long Socks
+3, White Thighhighs
+4, Black Thighhighs
+5, White Tights
+6, Black Tights
+7, Brown Tights
+
+
+tail_model_id:
+-1, No Tail
+1, Pointed Tail
+2, Flat Tail
+
+race_running_type:
+1, Type 1
+2, Type 2
+3, Type 3
+
