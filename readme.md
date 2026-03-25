@@ -12,7 +12,7 @@ I just use the follow command to make the exe after any code changes and require
 ` python -m PyInstaller --onefile --clean --icon=haru.ico buruma.py`
 
 ### App Demo
-https://github.com/user-attachments/assets/344c0cff-fe52-4f19-9671-9c4be4fc44d4
+https://github.com/user-attachments/assets/1558a7ec-7290-4275-8608-c174f4c6a928
 
 ### In Game Demo
-
+https://github.com/user-attachments/assets/e038ac5a-7a7e-4046-bcda-91028a6274c0
